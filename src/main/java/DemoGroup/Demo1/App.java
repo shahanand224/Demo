@@ -13,6 +13,6 @@ public class App
 		System.out.println( "Hello World!" );
 		System.out.println( "Hello Arpit!" );
 		System.out.println( "Hello Arpit!" );
-		System.out.println( "Hello Anand HOW are you!" );
+		System.out.println( "Hello Anand HOW are!" );
     }
 }
